@@ -2,3 +2,6 @@ I am first file to store into git.
 This 
 I am learning django
 this from vscode
+;lksjg;lajkg;lkajgl;kja
+klajggklajhklkjalhj
+lkajhkl;ajl;hja
